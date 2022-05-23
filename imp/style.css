@@ -1,0 +1,26 @@
+.body-contect{
+    background: rgb(25, 207, 207);
+}
+.contect{
+    color: rgb(139, 0, 70);
+    
+    margin-left: 20px;
+
+}
+.contect h1{
+    margin-top: 5px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    color: crimson;
+    font-size: 26px;
+    font-family: fantasy;
+
+
+}
+.contect img{
+    float: right;
+    margin-top: 25%;
+    width: 65%;
+    height: 40%;
+    
+}
